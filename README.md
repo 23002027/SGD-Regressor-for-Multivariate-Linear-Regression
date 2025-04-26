@@ -16,9 +16,9 @@ Step 3: Use SGDRegressor wrapped in MultiOutputRegressor to train on the scaled 
 
 Step 4: Predict on test data, inverse transform the results, and calculate the mean squared error.
 ## Program:
-Name : Priyanka R
+Name : KAMESH R R
 
-Reg no : 212223220081
+Reg no : 212223230095
 ```
 import numpy as np
 import pandas as pd
